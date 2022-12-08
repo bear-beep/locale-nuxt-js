@@ -1,7 +1,4 @@
-<template>
-  <Tutorial/>
-</template>
-
 <script>
-export default {}
+import Index from '~/pages/_lang/index'
+export default Index
 </script>

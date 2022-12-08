@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\00465\\\\Desktop\\\\NUXT-MULTI-LAN\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\00465\\\\Desktop\\\\NUXT-MULTI-LAN\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "lang",
+    "path": "/:lang",
+    "component": "C:\\\\Users\\\\00465\\\\Desktop\\\\NUXT-MULTI-LAN\\\\pages\\\\_lang\\\\index.vue",
+    "chunkName": "pages/_lang/index"
+  },
+  {
+    "name": "lang-about",
+    "path": "/:lang/about",
+    "component": "C:\\\\Users\\\\00465\\\\Desktop\\\\NUXT-MULTI-LAN\\\\pages\\\\_lang\\\\about.vue",
+    "chunkName": "pages/_lang/about"
+  }
+]
